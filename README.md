@@ -14,3 +14,4 @@ Install and use the [np tool](https://github.com/sindresorhus/np):
 npm install --global np
 np
 ```
+# cordova-plugin-datalogic
